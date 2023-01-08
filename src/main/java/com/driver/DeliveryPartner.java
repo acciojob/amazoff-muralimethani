@@ -13,6 +13,9 @@ public class DeliveryPartner {
     public String getId() {
         return id;
     }
+    public String setId() {
+        return id;
+    }
 
     public Integer getNumberOfOrders(){
         return numberOfOrders;
